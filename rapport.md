@@ -1,9 +1,9 @@
 ---
 layout: rapport
 chapitre: false
-package: pkg_modules
+package: pkg_competences
 order: 1
 ---
 
-{% assign package_name = "pkg_modules" %}
+{% assign package_name = "pkg_competences" %}
 {% include rapport_par_package.md %}
